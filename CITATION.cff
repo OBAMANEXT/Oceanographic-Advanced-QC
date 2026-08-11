@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+
+message: "This repository accompanies ongoing unpublished scientific work. If you use or refer to this software in scientific work, please cite the associated publication when available and acknowledge this repository."
+
+title: "Oceanographic-Advanced-QC"
+
+type: software
+
+authors:
+
+* family-names: "Stamataki"
+  given-names: "Natalia"
+
+abstract: "MATLAB examples for advanced quality control of multiplatform oceanographic observations, including point-to-point Neighbor Test workflows and spatial-temporal collocation."
+
+keywords:
+
+* oceanographic quality control
+* Neighbor Test
+* multivariate quality control
+* multiplatform observations
+* ocean observations
+* MATLAB
