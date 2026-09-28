@@ -112,11 +112,13 @@ The functions use generic Platform A and Platform B inputs and can be adapted to
 
 ## Citation
 
-If you use this code in scientific work, please cite the associated publication:
+## Citation
 
-Stamataki, N., Frangoulis, C., Tsiaras, K., De Mey-Frémaux, P., Petihakis, G., and Sofianos, S. (2026). Multiplatform and multivariate quality control of physical and biogeochemical ocean observations: From quality control to environmental event identification. Frontiers in Marine Science, Ocean Observation (manuscript in preparation).
+If you use this code in scientific or scholarly work, please cite the associated publication:
 
-Full citation to be added after publication
+Stamataki, N., Frangoulis, C., Tsiaras, K., De Mey-Frémaux, P., Petihakis, G., and Sofianos, S. (2026). *Multiplatform and multivariate quality control of physical and biogeochemical ocean observations: From quality control to environmental event identification*. Frontiers in Marine Science, Ocean Observation (manuscript submitted for publication).
+
+The full publication citation and DOI will be added upon publication.
 
 
 ## Scope
