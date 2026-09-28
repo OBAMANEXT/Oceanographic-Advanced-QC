@@ -1,12 +1,34 @@
-Copyright (c) 2026 OBAMA-NEXT Project. All rights reserved.
+Oceanographic-Advanced-QC Research Software License
 
-This repository contains research software developed in connection with
-ongoing scientific work of the OBAMA-NEXT Project.
+Copyright (c) 2026 Natalia Stamataki
+All rights reserved.
 
-The software is currently provided for internal project review and evaluation
-only. No permission is granted to copy, modify, redistribute, publish,
-sublicense, or otherwise reuse the software outside the authorized project
-context without prior written permission from the copyright holder(s).
+Permission is granted to download, copy, and use the software contained in
+this repository for research, educational, and other non-commercial purposes,
+subject to the following conditions:
 
-A public software license may be assigned following publication of the
-associated scientific work.
+1. The copyright notice and this license notice must be retained in all copies
+   or substantial portions of the software.
+
+2. Any scientific publication, report, presentation, thesis, or other
+   scholarly work that uses this software, in whole or in part, must cite
+   the associated scientific publication specified in the CITATION.cff file
+   and/or the repository README.
+
+3. Until the associated scientific publication becomes available, users
+   should cite this software repository. The publication citation will be
+   added to the CITATION.cff file and README when available.
+
+4. Redistribution of modified versions of the software must clearly indicate
+   that modifications have been made and must retain this license notice and
+   the citation requirement above.
+
+5. No permission is granted to use this software for commercial purposes
+   without prior written permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
