@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 
-message: "If you use this software in scientific or scholarly work, please cite this repository. The citation of the associated scientific publication will be added when available."
-
+message: "If you use this software in scientific or scholarly work, please cite the associated scientific publication specified in the README. The final publication citation and DOI will be added when available."
 title: "Oceanographic-Advanced-QC"
 
 type: software
